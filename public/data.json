@@ -1,0 +1,90 @@
+[
+  {
+    "image":"images/deadrabbit.webp",
+    "name": "Dead Rabbit",
+    "abv": "8.3%",
+    "volume": "0.33l",
+    "price": 1190,
+    "available": true
+  },
+  {
+    "image":"images/mango.webp",
+    "name": "Mango Hero",
+    "abv": "4.5%",
+    "volume": "0.33l",
+    "price": 1190,
+    "available": true
+  },
+  {
+    "image":"images/cherry.webp",
+    "name": "Cherry Hero",
+    "abv": "4.3%",
+    "volume": "0.33l",
+    "price": 1090,
+    "available": true
+  },
+  {
+    "image":"images/pils.webp",
+    "name": "MONYO Pils",
+    "abv": "4.5%",
+    "volume": "0.33l",
+    "price": 890,
+    "available": true
+  },
+  {
+    "image":"images/glutenmentes_cherry.webp",
+    "name": "Gluténmentes Cherry Hero",
+    "abv": "4.3%",
+    "volume": "0.33l",
+    "price": 1090,
+    "available": true
+  },
+  {
+    "image":"images/vidman.webp",
+    "name": "MONYO x JustVidman – Ez Már Sör!",
+    "abv": "5.7%",
+    "volume": "0.33l",
+    "price": 1190,
+    "available": true
+  },
+  {
+    "image":"images/octopus.webp",
+    "name": "Grumpy Octopus",
+    "abv": "5.8%",
+    "volume": "0.33l",
+    "price": 1090,
+    "available": false
+  },
+  {
+    "image":"images/cyberrabbit.webp",
+    "name": "Cyber Rabbit",
+    "abv": "5.8%",
+    "volume": "0.33l",
+    "price": 1190,
+    "available": true
+  },
+  {
+    "image":"images/flyingrabbit.webp",
+    "name": "Flying Rabbit",
+    "abv": "6.5%",
+    "volume": "0.33l",
+    "price": 1090,
+    "available": true
+  },
+  {
+    "image":"images/ipa.webp",
+    "name": "MONYO IPA",
+    "abv": "5.6%",
+    "volume": "0.33l",
+    "price": 990,
+    "available": true
+  },
+  {
+    "image":"images/schatzi.webp",
+    "name": "Schatzi",
+    "abv": "5.5%",
+    "volume": "0.33l",
+    "price": 950,
+    "available": false
+  }
+]
